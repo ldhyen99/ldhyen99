@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yenldh
-- 👀 I’m interested in playing piano, coding, reading something like books or blogs and watching video games. I also love Geography and problem-solving.
-- 🌱 I’m currently learning ReactJS, NextJS, Flutter and NodeJS. 
+- 👀 I’m interested in playing piano, coding, reading something like books or blogs and watching video games. I also love DBMS, Geography and problem-solving.
+- 🌱 I’m currently learning ReactJS, NextJS, NodeJS, Golang and C++. 
 - 📫 How to reach me: ldhyen99@gmail.com
 
 
